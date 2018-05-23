@@ -1,0 +1,30 @@
+c:\users\subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\bin\Debug\KU Digital Medi File.exe
+c:\users\subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\bin\Debug\KU Digital Medi File.pdb
+c:\users\subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Form1.resources
+c:\users\subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Properties.Resources.resources
+c:\users\subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.csproj.GenerateResource.Cache
+c:\users\subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.exe
+c:\users\subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.pdb
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.student_entry.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Form3.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.csprojResolveAssemblyReference.cache
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Medi_Store.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Medicine_Supply.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Update_Credentials.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Update_Student_Database.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Doctor_s_Advice.resources
+C:\Users\Subrato\documents\visual studio 2010\Projects\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Schedule.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.exe
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.pdb
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.csprojResolveAssemblyReference.cache
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Doctor_s_Advice.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Form1.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.student_entry.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Form3.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Medi_Store.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Medicine_Supply.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Properties.Resources.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Schedule.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Update_Credentials.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU_Digital_Medi_File.Update_Student_Database.resources
+E:\C#(visual studio)\KU Digital Medi File\KU Digital Medi File\obj\x86\Debug\KU Digital Medi File.csproj.GenerateResource.Cache
